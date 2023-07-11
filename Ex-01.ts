@@ -1,0 +1,1 @@
+//1-Vscode, nodejs,typescript installation done
